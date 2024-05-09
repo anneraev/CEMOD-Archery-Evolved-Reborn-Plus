@@ -1,18 +1,18 @@
 {
-	"name": "Archery_Evolved_Reborn_Plus",
+	"name": "Necro's Truly Barbaric Combat Overhaul",
 	"description": "",
 	"changeNote": "",
 	"author": "",
 	"authorUrl": "",
-	"versionMajor": 1,
+	"versionMajor": 0,
 	"versionMinor": 0,
-	"versionBuild": 0,
+	"versionBuild": 1,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "",
 	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 2,
 	"folderName": "Archery_Evolved_Reborn",
-	"revisionNumber": 543717,
-	"snapshotId": 38653,
+	"revisionNumber": 753186,
+	"snapshotId": 40890,
 	"fileSize": 0
 }
